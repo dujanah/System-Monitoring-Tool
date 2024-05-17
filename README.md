@@ -4,7 +4,9 @@
 System Monitoring Tool is a program that displays user and system stats on a Linux terminal, with varying displays based on user command arguments.
 
 ## How to Run
+```
 ./smt [ command arguments ] ...
+```
 
 ## How to Compile
 ```bash
