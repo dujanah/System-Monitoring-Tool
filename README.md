@@ -1,4 +1,5 @@
 # System Monotoring Tool
+## CSCB09 Winter 2024 Project
 
 System Monotoring Tool is a program that displays user and system stats on a Linux terminal, with varying displays based on user command arguments.
 
