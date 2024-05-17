@@ -109,9 +109,13 @@ static void quit(int signo){
 	puts("\nWould you like to quit? yes/no : ");
 	
 	while (TRUE){
+		/* ...
+
 		// Takes user input until valid input is input
 		// Returns back to call if input "no"
 		// Exits process if input "yes"
+
+		... */
 	}
 }
 
