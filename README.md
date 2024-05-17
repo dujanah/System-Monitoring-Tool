@@ -5,7 +5,7 @@ System Monitoring Tool is a program that displays user and system stats on a Lin
 
 ## How to Run
 ```bash
-./smt command arguments ...
+./smt [ command arguments ] ...
 ```
 
 ## How to Compile
