@@ -26,7 +26,7 @@ help      # for more information
 
 # NOTES
    # multiple commands can be used together
-   # using both --system and --user will result in the same output
+   # using both --system and --user will result in the same output as using neither command
    # samples and tdelay can be positional arguments, in respective order
    # flag commands for samples and tdelay have precedence to respective positional arguments
    # the first solo integer after --samples=N will be consider tdelay
